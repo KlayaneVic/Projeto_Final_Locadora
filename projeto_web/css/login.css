@@ -1,0 +1,16 @@
+body {
+    min-height: 100vh;
+    background-color: #183F39;
+}
+
+.login-form {
+    background-color: #000;
+    color: #FFF;
+    margin-top: 25vh;
+    padding: 20px 30px;
+}
+
+.login-form h2 {
+    margin: 0 0 20px;
+    font-size: 1em;
+}

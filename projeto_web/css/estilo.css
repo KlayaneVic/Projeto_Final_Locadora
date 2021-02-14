@@ -1,0 +1,73 @@
+.body {
+    min-height: 100vh;
+    color: snow;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav2{
+    background-color: red; 
+    opacity: 0.9;
+    padding: 0.5em; 
+    padding-left: 2em;
+    margin: auto;
+    color: snow;
+    font-family: 'Times New Roman', Times, serif;
+}
+.col-md-3{
+    border: solid 1px;
+
+    border-radius: 20px;
+}
+.card-text{
+    text-align:justify;
+    color:snow;
+    font-family: 'Times New Roman', Times, serif;
+}
+.perfil{
+    border: solid;
+    border-radius: 20px;
+    width: 30em;
+	padding-left: 1em;
+}
+#divBusca{
+    background-color:snow;
+    border:solid 1px;
+    border-radius:15px;
+    width:300px;
+
+}  
+#txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:260px;
+}
+#btn_busca{
+    height:20px;
+    width:30px;
+}
+
+.cadastrof{
+	background-color: #363636; 
+	border-radius: 15px; 
+	margin-left: 15em; 
+	margin-right: 15em; 
+	padding: 30px;
+}
+
+.imagem_banco{
+	border-radius: 30px;
+	height: 300px;
+	width: 250px;
+}
+
+.listaf{
+	background-color: #363636; 
+	margin: 50px; 
+	border: black; 
+	text-align: center; 
+	border-radius: 15px;
+}
